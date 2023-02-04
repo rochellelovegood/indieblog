@@ -65,8 +65,8 @@ color:whitesmoke
 
 }
 .btn:hover{
-    transition: ease-in 0.5s;
-    transform: scale(1.25);
+    transition: ease-in 0.2s;
+    transform: scale(1.1);
     background-color:blueviolet ;
   }
   @media(max-width:640px){
@@ -89,8 +89,8 @@ color:whitesmoke
         
         width:fit-content;
         margin: 30px auto 0;
-  text-align: center;
-  transition: 0.5s;
+        text-align: center;
+       transition: 0.5s;
 
 
     }
